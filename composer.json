@@ -1,0 +1,5 @@
+{
+    "require": {
+        "videlalvaro/php-amqplib": "dev-master"
+    }
+}
